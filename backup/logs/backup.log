@@ -1,0 +1,427 @@
+2024-04-26 19:33:21,880 - INFO - Current directory: /app
+2024-04-26 19:33:21,882 - INFO - Files in the current directory:
+2024-04-26 19:33:21,882 - INFO - backup
+2024-04-26 19:33:21,883 - INFO - credentials.json
+2024-04-26 19:33:21,883 - INFO - main.py
+2024-04-26 19:33:21,884 - INFO - Files in the 'data' directory:
+2024-04-26 19:33:21,888 - INFO - 3097725.jpg
+2024-04-26 19:33:21,889 - INFO - 7447.jpg
+2024-04-26 19:33:21,890 - INFO - 7450.jpg
+2024-04-26 19:33:21,890 - INFO - 7458.jpg
+2024-04-26 19:33:21,891 - INFO - 7459.jpg
+2024-04-26 19:33:21,891 - INFO - 7468.jpg
+2024-04-26 19:33:21,892 - INFO - 7476.jpg
+2024-04-26 19:33:21,893 - INFO - 7481.jpg
+2024-04-26 19:33:21,893 - INFO - 7486.jpg
+2024-04-26 19:33:21,893 - INFO - 7499.jpg
+2024-04-26 19:33:21,894 - INFO - Input folder path: /app/backup/files
+2024-04-26 19:33:21,903 - INFO - Uploading file: 3097725.jpg
+2024-04-26 19:33:21,909 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:33:21,916 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:33:22,138 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:33:22,139 - INFO - Uploading file: 7447.jpg
+2024-04-26 19:33:22,148 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:33:22,194 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:33:22,355 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:33:22,356 - INFO - Uploading file: 7450.jpg
+2024-04-26 19:33:22,378 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:33:22,385 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:33:22,591 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:33:22,592 - INFO - Uploading file: 7458.jpg
+2024-04-26 19:33:22,600 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:33:22,606 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:33:22,877 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:33:22,878 - INFO - Uploading file: 7459.jpg
+2024-04-26 19:33:22,891 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:33:22,928 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:33:23,170 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:33:23,176 - INFO - Uploading file: 7468.jpg
+2024-04-26 19:33:23,181 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:33:23,190 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:33:23,382 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:33:23,383 - INFO - Uploading file: 7476.jpg
+2024-04-26 19:33:23,386 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:33:23,393 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:33:23,559 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:33:23,560 - INFO - Uploading file: 7481.jpg
+2024-04-26 19:33:23,563 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:33:23,581 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:33:23,704 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:33:23,705 - INFO - Uploading file: 7486.jpg
+2024-04-26 19:33:23,708 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:33:23,712 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:33:23,828 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:33:23,828 - INFO - Uploading file: 7499.jpg
+2024-04-26 19:33:23,831 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:33:23,835 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:33:23,984 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:33:23,984 - INFO - Backup process completed.
+2024-04-26 19:34:15,061 - INFO - Current directory: /app
+2024-04-26 19:34:15,062 - INFO - Files in the current directory:
+2024-04-26 19:34:15,062 - INFO - backup
+2024-04-26 19:34:15,063 - INFO - credentials.json
+2024-04-26 19:34:15,063 - INFO - main.py
+2024-04-26 19:34:15,063 - INFO - Files in the 'data' directory:
+2024-04-26 19:34:15,064 - INFO - 3097725.jpg
+2024-04-26 19:34:15,064 - INFO - 7447.jpg
+2024-04-26 19:34:15,065 - INFO - 7450.jpg
+2024-04-26 19:34:15,065 - INFO - 7458.jpg
+2024-04-26 19:34:15,065 - INFO - 7459.jpg
+2024-04-26 19:34:15,065 - INFO - 7468.jpg
+2024-04-26 19:34:15,065 - INFO - 7476.jpg
+2024-04-26 19:34:15,065 - INFO - 7481.jpg
+2024-04-26 19:34:15,065 - INFO - 7486.jpg
+2024-04-26 19:34:15,065 - INFO - 7499.jpg
+2024-04-26 19:34:15,066 - INFO - Input folder path: /app/backup/files
+2024-04-26 19:34:15,067 - INFO - Uploading file: 3097725.jpg
+2024-04-26 19:34:15,069 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:34:15,072 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:34:15,136 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:34:15,136 - INFO - Uploading file: 7447.jpg
+2024-04-26 19:34:15,138 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:34:15,144 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:34:15,203 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:34:15,204 - INFO - Uploading file: 7450.jpg
+2024-04-26 19:34:15,206 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:34:15,209 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:34:15,272 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:34:15,273 - INFO - Uploading file: 7458.jpg
+2024-04-26 19:34:15,275 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:34:15,279 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:34:15,363 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:34:15,363 - INFO - Uploading file: 7459.jpg
+2024-04-26 19:34:15,365 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:34:15,373 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:34:15,442 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:34:15,442 - INFO - Uploading file: 7468.jpg
+2024-04-26 19:34:15,444 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:34:15,446 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:34:15,506 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:34:15,506 - INFO - Uploading file: 7476.jpg
+2024-04-26 19:34:15,508 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:34:15,511 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:34:15,571 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:34:15,571 - INFO - Uploading file: 7481.jpg
+2024-04-26 19:34:15,573 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:34:15,579 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:34:15,642 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:34:15,642 - INFO - Uploading file: 7486.jpg
+2024-04-26 19:34:15,644 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:34:15,647 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:34:15,709 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:34:15,710 - INFO - Uploading file: 7499.jpg
+2024-04-26 19:34:15,712 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:34:15,715 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:34:15,777 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:34:15,777 - INFO - Backup process completed.
+2024-04-26 19:35:03,232 - INFO - Current directory: /app
+2024-04-26 19:35:03,233 - INFO - Files in the current directory:
+2024-04-26 19:35:03,233 - INFO - backup
+2024-04-26 19:35:03,233 - INFO - credentials.json
+2024-04-26 19:35:03,233 - INFO - main.py
+2024-04-26 19:35:03,233 - INFO - Files in the 'data' directory:
+2024-04-26 19:35:03,235 - INFO - 3097725.jpg
+2024-04-26 19:35:03,235 - INFO - 7447.jpg
+2024-04-26 19:35:03,235 - INFO - 7450.jpg
+2024-04-26 19:35:03,236 - INFO - 7458.jpg
+2024-04-26 19:35:03,236 - INFO - 7459.jpg
+2024-04-26 19:35:03,236 - INFO - 7468.jpg
+2024-04-26 19:35:03,236 - INFO - 7476.jpg
+2024-04-26 19:35:03,236 - INFO - 7481.jpg
+2024-04-26 19:35:03,236 - INFO - 7486.jpg
+2024-04-26 19:35:03,237 - INFO - 7499.jpg
+2024-04-26 19:35:03,237 - INFO - Input folder path: /app/backup/files
+2024-04-26 19:35:03,238 - INFO - Uploading file: 3097725.jpg
+2024-04-26 19:35:03,240 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:35:03,245 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:35:03,314 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:35:03,314 - INFO - Uploading file: 7447.jpg
+2024-04-26 19:35:03,316 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:35:03,321 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:35:03,390 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:35:03,391 - INFO - Uploading file: 7450.jpg
+2024-04-26 19:35:03,393 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:35:03,396 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:35:03,461 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:35:03,461 - INFO - Uploading file: 7458.jpg
+2024-04-26 19:35:03,463 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:35:03,467 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:35:03,531 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:35:03,532 - INFO - Uploading file: 7459.jpg
+2024-04-26 19:35:03,533 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:35:03,541 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:35:03,603 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:35:03,603 - INFO - Uploading file: 7468.jpg
+2024-04-26 19:35:03,605 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:35:03,608 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:35:03,671 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:35:03,671 - INFO - Uploading file: 7476.jpg
+2024-04-26 19:35:03,673 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:35:03,676 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:35:03,736 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:35:03,736 - INFO - Uploading file: 7481.jpg
+2024-04-26 19:35:03,738 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:35:03,745 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:35:03,809 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:35:03,809 - INFO - Uploading file: 7486.jpg
+2024-04-26 19:35:03,811 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:35:03,814 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:35:03,905 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:35:03,940 - INFO - Uploading file: 7499.jpg
+2024-04-26 19:35:03,943 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:35:03,947 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:35:04,039 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:35:04,039 - INFO - Backup process completed.
+2024-04-26 19:36:03,171 - INFO - Current directory: /app
+2024-04-26 19:36:03,171 - INFO - Files in the current directory:
+2024-04-26 19:36:03,172 - INFO - backup
+2024-04-26 19:36:03,172 - INFO - credentials.json
+2024-04-26 19:36:03,172 - INFO - main.py
+2024-04-26 19:36:03,172 - INFO - Files in the 'data' directory:
+2024-04-26 19:36:03,174 - INFO - 3097725.jpg
+2024-04-26 19:36:03,174 - INFO - 7447.jpg
+2024-04-26 19:36:03,174 - INFO - 7450.jpg
+2024-04-26 19:36:03,175 - INFO - 7458.jpg
+2024-04-26 19:36:03,175 - INFO - 7459.jpg
+2024-04-26 19:36:03,175 - INFO - 7468.jpg
+2024-04-26 19:36:03,175 - INFO - 7476.jpg
+2024-04-26 19:36:03,175 - INFO - 7481.jpg
+2024-04-26 19:36:03,176 - INFO - 7486.jpg
+2024-04-26 19:36:03,176 - INFO - 7499.jpg
+2024-04-26 19:36:03,176 - INFO - Input folder path: /app/backup/files
+2024-04-26 19:36:03,177 - INFO - Uploading file: 3097725.jpg
+2024-04-26 19:36:03,180 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:36:03,183 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:36:03,260 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:36:03,261 - INFO - Uploading file: 7447.jpg
+2024-04-26 19:36:03,262 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:36:03,267 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:36:03,330 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:36:03,330 - INFO - Uploading file: 7450.jpg
+2024-04-26 19:36:03,332 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:36:03,335 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:36:03,393 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:36:03,393 - INFO - Uploading file: 7458.jpg
+2024-04-26 19:36:03,395 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:36:03,398 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:36:03,457 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:36:03,458 - INFO - Uploading file: 7459.jpg
+2024-04-26 19:36:03,460 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:36:03,466 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:36:03,525 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:36:03,525 - INFO - Uploading file: 7468.jpg
+2024-04-26 19:36:03,527 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:36:03,530 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:36:03,587 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:36:03,587 - INFO - Uploading file: 7476.jpg
+2024-04-26 19:36:03,589 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:36:03,592 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:36:03,652 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:36:03,653 - INFO - Uploading file: 7481.jpg
+2024-04-26 19:36:03,655 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:36:03,661 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:36:03,721 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:36:03,721 - INFO - Uploading file: 7486.jpg
+2024-04-26 19:36:03,723 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:36:03,726 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:36:03,789 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:36:03,790 - INFO - Uploading file: 7499.jpg
+2024-04-26 19:36:03,791 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:36:03,794 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:36:03,854 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:36:03,854 - INFO - Backup process completed.
+2024-04-26 19:37:03,193 - INFO - Current directory: /app
+2024-04-26 19:37:03,194 - INFO - Files in the current directory:
+2024-04-26 19:37:03,194 - INFO - backup
+2024-04-26 19:37:03,194 - INFO - credentials.json
+2024-04-26 19:37:03,194 - INFO - main.py
+2024-04-26 19:37:03,195 - INFO - Files in the 'data' directory:
+2024-04-26 19:37:03,196 - INFO - 3097725.jpg
+2024-04-26 19:37:03,196 - INFO - 7447.jpg
+2024-04-26 19:37:03,197 - INFO - 7450.jpg
+2024-04-26 19:37:03,197 - INFO - 7458.jpg
+2024-04-26 19:37:03,197 - INFO - 7459.jpg
+2024-04-26 19:37:03,197 - INFO - 7468.jpg
+2024-04-26 19:37:03,197 - INFO - 7476.jpg
+2024-04-26 19:37:03,198 - INFO - 7481.jpg
+2024-04-26 19:37:03,198 - INFO - 7486.jpg
+2024-04-26 19:37:03,198 - INFO - 7499.jpg
+2024-04-26 19:37:03,198 - INFO - Input folder path: /app/backup/files
+2024-04-26 19:37:03,199 - INFO - Uploading file: 3097725.jpg
+2024-04-26 19:37:03,202 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:37:03,205 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:37:03,299 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:37:03,299 - INFO - Uploading file: 7447.jpg
+2024-04-26 19:37:03,302 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:37:03,307 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:37:03,366 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:37:03,366 - INFO - Uploading file: 7450.jpg
+2024-04-26 19:37:03,368 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:37:03,371 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:37:03,429 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:37:03,430 - INFO - Uploading file: 7458.jpg
+2024-04-26 19:37:03,432 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:37:03,435 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:37:03,496 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:37:03,496 - INFO - Uploading file: 7459.jpg
+2024-04-26 19:37:03,498 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:37:03,504 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:37:03,564 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:37:03,564 - INFO - Uploading file: 7468.jpg
+2024-04-26 19:37:03,566 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:37:03,569 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:37:03,629 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:37:03,629 - INFO - Uploading file: 7476.jpg
+2024-04-26 19:37:03,631 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:37:03,634 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:37:03,690 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:37:03,691 - INFO - Uploading file: 7481.jpg
+2024-04-26 19:37:03,692 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:37:03,699 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:37:03,757 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:37:03,757 - INFO - Uploading file: 7486.jpg
+2024-04-26 19:37:03,759 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:37:03,762 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:37:03,824 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:37:03,824 - INFO - Uploading file: 7499.jpg
+2024-04-26 19:37:03,826 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:37:03,829 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:37:03,890 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:37:03,891 - INFO - Backup process completed.
+2024-04-26 19:38:03,405 - INFO - Current directory: /app
+2024-04-26 19:38:03,405 - INFO - Files in the current directory:
+2024-04-26 19:38:03,406 - INFO - backup
+2024-04-26 19:38:03,406 - INFO - credentials.json
+2024-04-26 19:38:03,406 - INFO - main.py
+2024-04-26 19:38:03,406 - INFO - Files in the 'data' directory:
+2024-04-26 19:38:03,407 - INFO - 3097725.jpg
+2024-04-26 19:38:03,407 - INFO - 7447.jpg
+2024-04-26 19:38:03,408 - INFO - 7450.jpg
+2024-04-26 19:38:03,408 - INFO - 7458.jpg
+2024-04-26 19:38:03,408 - INFO - 7459.jpg
+2024-04-26 19:38:03,408 - INFO - 7468.jpg
+2024-04-26 19:38:03,408 - INFO - 7476.jpg
+2024-04-26 19:38:03,408 - INFO - 7481.jpg
+2024-04-26 19:38:03,408 - INFO - 7486.jpg
+2024-04-26 19:38:03,409 - INFO - 7499.jpg
+2024-04-26 19:38:03,409 - INFO - Input folder path: /app/backup/files
+2024-04-26 19:38:03,410 - INFO - Uploading file: 3097725.jpg
+2024-04-26 19:38:03,412 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:38:03,415 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:38:03,482 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:38:03,483 - INFO - Uploading file: 7447.jpg
+2024-04-26 19:38:03,485 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:38:03,489 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:38:03,549 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:38:03,549 - INFO - Uploading file: 7450.jpg
+2024-04-26 19:38:03,551 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:38:03,554 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:38:03,615 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:38:03,616 - INFO - Uploading file: 7458.jpg
+2024-04-26 19:38:03,618 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:38:03,622 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:38:03,683 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:38:03,684 - INFO - Uploading file: 7459.jpg
+2024-04-26 19:38:03,685 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:38:03,696 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:38:03,755 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:38:03,755 - INFO - Uploading file: 7468.jpg
+2024-04-26 19:38:03,759 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:38:03,763 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:38:03,825 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:38:03,826 - INFO - Uploading file: 7476.jpg
+2024-04-26 19:38:03,828 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:38:03,831 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:38:03,892 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:38:03,892 - INFO - Uploading file: 7481.jpg
+2024-04-26 19:38:03,894 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:38:03,900 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:38:03,985 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:38:03,985 - INFO - Uploading file: 7486.jpg
+2024-04-26 19:38:03,987 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:38:03,991 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:38:04,050 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:38:04,051 - INFO - Uploading file: 7499.jpg
+2024-04-26 19:38:04,053 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:38:04,056 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:38:04,119 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:38:04,119 - INFO - Backup process completed.
+2024-04-26 19:47:04,063 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:47:04,069 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:47:04,200 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:48:03,620 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:48:03,628 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:48:03,726 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:49:03,188 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:49:03,192 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:49:03,285 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:50:09,839 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:50:09,844 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:50:09,985 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:51:03,272 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:51:03,280 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:51:03,409 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 19:52:03,292 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:52:03,297 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 19:52:03,389 - ERROR - Error occurred: [Errno 99] Cannot assign requested address
+2024-04-26 20:35:20,798 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 20:35:20,805 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 20:35:24,947 - ERROR - Error occurred: [Errno 101] Network is unreachable
+2024-04-26 20:35:31,257 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 20:35:31,265 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 20:35:41,894 - ERROR - Error occurred: [Errno 101] Network is unreachable
+2024-04-26 20:37:04,015 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 20:37:04,024 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 20:37:08,165 - ERROR - Error occurred: [Errno 101] Network is unreachable
+2024-04-26 20:38:04,865 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 20:38:04,872 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-26 20:38:05,067 - ERROR - Error occurred: [Errno 101] Network is unreachable
+2024-04-27 02:09:08,483 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-27 02:09:08,568 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-27 02:09:09,298 - ERROR - Error occurred: expected str, bytes or os.PathLike object, not BytesIO
+2024-04-27 02:09:31,954 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-27 02:09:32,057 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-27 02:09:32,735 - ERROR - Error occurred: expected str, bytes or os.PathLike object, not BytesIO
+2024-04-27 02:10:11,354 - INFO - Current directory: C:\PES\sem6\CC\Project-5-20240325T050606Z-001\Project-5\Archive\alt
+2024-04-27 02:10:11,354 - INFO - Files in the current directory:
+2024-04-27 02:10:11,354 - INFO - backup
+2024-04-27 02:10:11,354 - INFO - backup.log
+2024-04-27 02:10:11,354 - INFO - backuppv.yaml
+2024-04-27 02:10:11,354 - INFO - backuppvc.yaml
+2024-04-27 02:10:11,354 - INFO - build.bat
+2024-04-27 02:10:11,354 - INFO - credentials.json
+2024-04-27 02:10:11,354 - INFO - CronJob.yaml
+2024-04-27 02:10:11,354 - INFO - Dockerfile
+2024-04-27 02:10:11,354 - INFO - halfstart.bat
+2024-04-27 02:10:11,354 - INFO - logspv.yaml
+2024-04-27 02:10:11,354 - INFO - logspvc.yaml
+2024-04-27 02:10:11,354 - INFO - main.py
+2024-04-27 02:10:11,354 - INFO - start.bat
+2024-04-27 02:10:11,354 - INFO - stop.bat
+2024-04-27 02:10:11,354 - INFO - Files in the 'data' directory:
+2024-04-27 02:10:11,354 - INFO - 3097725.jpg
+2024-04-27 02:10:11,354 - INFO - 7447.jpg
+2024-04-27 02:10:11,354 - INFO - 7450.jpg
+2024-04-27 02:10:11,354 - INFO - 7458.jpg
+2024-04-27 02:10:11,354 - INFO - 7459.jpg
+2024-04-27 02:10:11,354 - INFO - 7468.jpg
+2024-04-27 02:10:11,366 - INFO - 7476.jpg
+2024-04-27 02:10:11,366 - INFO - 7481.jpg
+2024-04-27 02:10:11,366 - INFO - 7486.jpg
+2024-04-27 02:10:11,367 - INFO - 7499.jpg
+2024-04-27 02:10:11,367 - INFO - Input folder path: C:\PES\sem6\CC\Project-5-20240325T050606Z-001\Project-5\Archive\alt\backup/files
+2024-04-27 02:10:11,368 - INFO - Uploading file: 3097725.jpg
+2024-04-27 02:10:11,467 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-27 02:10:11,561 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-27 02:10:16,759 - INFO - Uploaded '3097725.jpg' successfully.
+2024-04-27 02:10:16,759 - INFO - Uploading file: 7447.jpg
+2024-04-27 02:10:16,887 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-27 02:10:16,948 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-27 02:10:20,950 - INFO - Uploaded '7447.jpg' successfully.
+2024-04-27 02:10:20,950 - INFO - Uploading file: 7450.jpg
+2024-04-27 02:10:21,027 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-27 02:10:21,074 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-27 02:10:25,173 - INFO - Uploaded '7450.jpg' successfully.
+2024-04-27 02:10:25,188 - INFO - Uploading file: 7458.jpg
+2024-04-27 02:10:25,309 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-27 02:10:25,462 - INFO - file_cache is only supported with oauth2client<4.0.0

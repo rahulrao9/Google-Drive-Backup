@@ -1,0 +1,24 @@
+apiVersion: batch/v1
+kind: CronJob
+metadata:
+  name: backup-cronjob
+spec:
+  schedule: "* * * * *"  # Run every minute for testing, adjust as needed
+  jobTemplate:
+    spec:
+      template:
+        spec:
+          containers:
+          - name: backup-container
+            image: rahulrrao/file-uploader:latest
+            imagePullPolicy: Always
+            volumeMounts:
+            - mountPath: /app/backup
+              name: data-volume
+              readOnly: false
+          restartPolicy: Never
+          volumes:
+          - name: data-volume
+            persistentVolumeClaim:
+              claimName: backup-pvc  # Name of the PersistentVolumeClaim
+

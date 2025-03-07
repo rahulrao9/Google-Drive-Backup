@@ -1,0 +1,69 @@
+2024-04-27 00:20:28,333 - INFO - Current directory: C:\PES\sem6\CC\Project-5-20240325T050606Z-001\Project-5\Archive\alt
+2024-04-27 00:20:28,333 - INFO - Files in the current directory:
+2024-04-27 00:20:28,333 - INFO - backup.log
+2024-04-27 00:20:28,333 - INFO - backuppv.yaml
+2024-04-27 00:20:28,334 - INFO - backuppvc.yaml
+2024-04-27 00:20:28,334 - INFO - build.bat
+2024-04-27 00:20:28,334 - INFO - credentials.json
+2024-04-27 00:20:28,334 - INFO - CronJob.yaml
+2024-04-27 00:20:28,334 - INFO - data
+2024-04-27 00:20:28,334 - INFO - Dockerfile
+2024-04-27 00:20:28,334 - INFO - halfstart.bat
+2024-04-27 00:20:28,334 - INFO - logspv.yaml
+2024-04-27 00:20:28,334 - INFO - logspvc.yaml
+2024-04-27 00:20:28,334 - INFO - main.py
+2024-04-27 00:20:28,336 - INFO - start.bat
+2024-04-27 00:20:28,336 - INFO - stop.bat
+2024-04-27 00:20:28,336 - INFO - Files in the 'data' directory:
+2024-04-27 00:20:28,337 - INFO - 3097725.jpg
+2024-04-27 00:20:28,337 - INFO - 7447.jpg
+2024-04-27 00:20:28,337 - INFO - 7450.jpg
+2024-04-27 00:20:28,337 - INFO - 7458.jpg
+2024-04-27 00:20:28,337 - INFO - 7459.jpg
+2024-04-27 00:20:28,337 - INFO - 7468.jpg
+2024-04-27 00:20:28,338 - INFO - 7476.jpg
+2024-04-27 00:20:28,338 - INFO - 7481.jpg
+2024-04-27 00:20:28,338 - INFO - 7486.jpg
+2024-04-27 00:20:28,338 - INFO - 7499.jpg
+2024-04-27 00:20:28,338 - INFO - Input folder path: C:\PES\sem6\CC\Project-5-20240325T050606Z-001\Project-5\Archive\alt\data
+2024-04-27 00:20:28,339 - INFO - Uploading file: 3097725.jpg
+2024-04-27 00:20:28,438 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-27 00:20:28,497 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-27 00:20:32,705 - INFO - Uploaded '3097725.jpg' successfully.
+2024-04-27 00:20:32,706 - INFO - Uploading file: 7447.jpg
+2024-04-27 00:20:32,752 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-27 00:20:32,795 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-27 00:20:36,638 - INFO - Uploaded '7447.jpg' successfully.
+2024-04-27 00:20:36,638 - INFO - Uploading file: 7450.jpg
+2024-04-27 00:20:36,684 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-27 00:20:36,729 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-27 00:20:40,880 - INFO - Uploaded '7450.jpg' successfully.
+2024-04-27 00:20:40,881 - INFO - Uploading file: 7458.jpg
+2024-04-27 00:20:40,933 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-27 00:20:40,980 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-27 00:20:44,863 - INFO - Uploaded '7458.jpg' successfully.
+2024-04-27 00:20:44,864 - INFO - Uploading file: 7459.jpg
+2024-04-27 00:20:44,910 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-27 00:20:44,972 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-27 00:20:49,148 - INFO - Uploaded '7459.jpg' successfully.
+2024-04-27 00:20:49,150 - INFO - Uploading file: 7468.jpg
+2024-04-27 00:20:49,188 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-27 00:20:49,227 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-27 00:20:53,754 - INFO - Uploaded '7468.jpg' successfully.
+2024-04-27 00:20:53,754 - INFO - Uploading file: 7476.jpg
+2024-04-27 00:20:53,796 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-27 00:20:53,841 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-27 00:20:58,467 - INFO - Uploaded '7476.jpg' successfully.
+2024-04-27 00:20:58,467 - INFO - Uploading file: 7481.jpg
+2024-04-27 00:20:58,513 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-27 00:20:58,569 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-27 00:21:02,182 - INFO - Uploaded '7481.jpg' successfully.
+2024-04-27 00:21:02,183 - INFO - Uploading file: 7486.jpg
+2024-04-27 00:21:02,227 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-27 00:21:02,274 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-27 00:21:06,271 - INFO - Uploaded '7486.jpg' successfully.
+2024-04-27 00:21:06,272 - INFO - Uploading file: 7499.jpg
+2024-04-27 00:21:06,330 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-27 00:21:06,392 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-27 00:21:10,359 - INFO - Uploaded '7499.jpg' successfully.
+2024-04-27 00:21:10,359 - INFO - Backup process completed.
